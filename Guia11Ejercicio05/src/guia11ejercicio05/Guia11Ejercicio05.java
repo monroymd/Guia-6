@@ -23,7 +23,8 @@ public class Guia11Ejercicio05 {
         Random random = new Random();
         int num = random.nextInt(500) + 1;
 
-        adivinarNumero(num);
+        adivinarNumero(num); 
+        
     }
 
     public static void adivinarNumero(int num) {
